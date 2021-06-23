@@ -1,0 +1,78 @@
+.menu {
+    background-color: #32b4d1;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+  }
+  
+  .carrossel {
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+  
+  .colunas {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f0f0f0;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .col-sm {
+    margin-top: 20px;
+  
+  }
+  
+  .navbar-brand {
+    font-family: 'Fredoka One', cursive;
+  
+  
+  
+  }
+  
+  .footer {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #077990;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    
+  
+  }
+  
+  .card-text {
+    font-weight: 500;
+    color: rgb(0, 174, 255);
+    
+  }
+  
+  .card-title {
+    font-weight: 700;
+  }
+  
+  h1, h2 {
+    font-family: 'Fredoka One', cursive;
+    
+  }
+  
+  .sobre-nos {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 50px;
+    padding-top: 20px;
+  }
+  
+  .sobre-nos-banner {
+    background-color: #32b4d1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .login {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+  
